@@ -50,7 +50,8 @@ admin.site.register(football_players,football_playersAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+Inc![Screenshot 2023-11-07 211550](https://github.com/Gajalakshmivelmurugan/ORM/assets/144871940/7540d939-75f5-4856-9af2-c41762c16aef)
+lude the screenshot of your admin page.
 
 
 ## RESULT
